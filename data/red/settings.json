@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "243077078210183169",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "!"
+    ],
+    "TOKEN" : "MzgzMzc1MzUyNDU5OTUyMTI5.DPjVrg.YU1eVIZtd1aD2-TGzbMqhdR0BTo",
+    "default" : {
+        "ADMIN_ROLE" : "SlyBoogie",
+        "MOD_ROLE" : "SlyBoogie",
+        "PREFIXES" : []
+    }
+}
